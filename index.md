@@ -1,4 +1,4 @@
-## Research Interest:
+## Research Interests:
 I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Translation.
 
 ## Projects:
