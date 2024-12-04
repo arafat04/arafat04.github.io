@@ -33,7 +33,7 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
  
   Based on the dialogue acts, the template is used for generating natural language.
 
-  video demo of the project: [travelbot demo](https://youtu.be/lYnPE4exrls).
+  Video demo of the project: [travelbot demo](https://youtu.be/lYnPE4exrls).
   
 * **Identifying-Offensive-Language-in-Socail-media-using-NLP:**
   
@@ -45,6 +45,7 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
 
   R Separate weather and stock price datasets were analyzed, and a Markov
   chain model was developed in R to predict weather and stock price trends.
+
   Project page: [Markov chain analysis with R](https://arafat04.github.io/Markov-Chain-Analysis/).
 
   [Erasmus Mundus LCT](https://lct-master.org/) | [UFAL, Charles University](https://ufal.mff.cuni.cz/home-page) | [IDMC, University of 
