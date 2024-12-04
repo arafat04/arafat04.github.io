@@ -5,7 +5,7 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
 * **bn-hi-MT-improvement-using-llm:**
   
   This project tries to explore two things:
-  1. Check the English concept state in the middle layer of a llm in the middle layers using logit lens.
+  1. Check the English concept state in the middle layers of a llm using logit lens.
   2. If the MT for Bengali to Hindi using a open source LLM (in this case Mistral-7b-bnb-4bit quantized model) can be improved by     v 
   finetunig   it using the parallel text.
 
@@ -47,7 +47,7 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
   chain model was developed in R to predict weather and stock price trends.
   Project page: [Markov chain analysis with R](https://arafat04.github.io/Markov-Chain-Analysis/).
 
-  [Erasmus Mundus LCT](https://lct-master.org/). | [UFAL, Charles University](https://ufal.mff.cuni.cz/home-page). | [IDMC, University of 
+  [Erasmus Mundus LCT](https://lct-master.org/) | [UFAL, Charles University](https://ufal.mff.cuni.cz/home-page) | [IDMC, University of 
   Lorraine](https://idmc.univ-lorraine.fr/courses/master-degree-2-nlp/)
 
   
