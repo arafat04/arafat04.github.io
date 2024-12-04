@@ -1,8 +1,5 @@
 title: <p align="center"> G M Arafat Rahman </p>
-logo: 
-  <p align="center">
-  <img src="images/portfolio_pic.jpg" alt="Arafat Rahman" style="width:150px;height:150px;border-radius:50%;">
-  </p>
+logo: "images/portfolio_pic.jpg"
 description: 
              <p align="center">
               Erasmus Mundus Scholar
