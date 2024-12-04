@@ -43,9 +43,12 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
 
 * **Markov Chain Analysis with R:**
 
-R Separate weather and stock price datasets were analyzed, and a Markov
-chain model was developed in R to predict weather and stock price trends.
-Project page: [Markov chain analysis with R](https://arafat04.github.io/Markov-Chain-Analysis/).
+  R Separate weather and stock price datasets were analyzed, and a Markov
+  chain model was developed in R to predict weather and stock price trends.
+  Project page: [Markov chain analysis with R](https://arafat04.github.io/Markov-Chain-Analysis/).
+
+  [Erasmus Mundus LCT](https://lct-master.org/). | [UFAL, Charles University](https://ufal.mff.cuni.cz/home-page). | [IDMC, University of 
+  Lorraine](https://idmc.univ-lorraine.fr/courses/master-degree-2-nlp/)
 
   
 
