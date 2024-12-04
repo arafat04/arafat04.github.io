@@ -37,8 +37,9 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
   
 * **Identifying-Offensive-Language-in-Socail-media-using-NLP:**
   
-  In this project, I used various NLP techniques such as tokenization, POS tagging, word representation using TF-IDF and word embedding    using GloVe and Finally evaluated the performance using Logistic Regression and Naive Bayes and using a Recurrent Neural Network.
-  Project report: http://dx.doi.org/10.13140/RG.2.2.25084.21121  | Project github Link:  [Identifying-Offensive-Language-in-Socail-media-using-NLP](https://github.com/arafat04/Identifying-Offensive-Language-in-Socail-media-using-NLP).
+  In this project, I used various NLP techniques such as tokenization, POS tagging, word representation using TF-IDF and word embedding     using GloVe and Finally evaluated the performance using Logistic Regression and Naive Bayes and using a Recurrent Neural Network.
+  
+  Project report: [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.25084.21121). | Project github Link:  [Identifying-Offensive-Language-in-Socail-media-using-NLP](https://github.com/arafat04/Identifying-Offensive-Language-in-Socail-media-using-NLP).
 
 * **Markov Chain Analysis with R:**
 
