@@ -1,5 +1,5 @@
-title: G M Arafat Rahman
-logo: "/images/arafat portfolio pic.jpg"
+title: <p align="center"> G M Arafat Rahman </p>
+logo: "/images/arafat portfolio pic.jpg?raw=true"
 description: 
              <p align="center">
               Erasmus Mundus Scholar
@@ -15,6 +15,5 @@ description:
               I am currently pursuing master's in Computational Linguistics and Natural language processing under Erasmus Mundus <b>Language and Communications Technologies(LCT)</b>.
             
               </p>
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
