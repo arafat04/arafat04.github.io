@@ -12,7 +12,9 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
 
 * **travelbot - a chatbot to find hotels and flights:**
   
-  This is a probabilistic and rule based chatbot. The Natural Language Understanding(NLU), policy are rule-based, Natural Language Generation(NLG) is template-based, and probabilistic dialogue/belief state tracker to work with NLU. The job of the belief state tracker is to help the chatbot to use probability to find most probable slot values if the user wrote the      utterance in not an usual way i.e. spelling mistake. This work like this: The update rule for a slot, say food, should go like this: we take all mentions of food in the current NLU, with their probabilities. Say we got Chinese with a probability of 0.7 and Italian with a probability of 0.2. This means None (or null) has a probability of 0.1. The rule-based policy    that uses the current NLU intent (or intents, coming from our NLU) and the dialogue state (coming from our tracker) to produce system action dialogue acts. For example:
+  This is a probabilistic and rule based chatbot. The Natural Language Understanding(NLU), policy are rule-based, Natural Language Generation(NLG) is template-based, and probabilistic dialogue/belief state tracker to work with NLU. The job of the belief state tracker is to help the chatbot to use probability to find most probable slot values if the user wrote the      utterance in not an usual way i.e. spelling mistake. This work like this: The update rule for a slot, say food, should go like this:
+
+We take all mentions of food in the current NLU, with their probabilities. Say we got Chinese with a probability of 0.7 and Italian with a probability of 0.2. This means None (or null) has a probability of 0.1. We use the probability of None to multiply current values with it (e.g. if the distribution was {'Chinese': 0.2, None: 0.8}, it should be changed to {'Chinese': 0.02, None: 0.08}. Now addition of the non-null values with their respective probabilities from the NLU. This should result in {'Chinese': 0.72, 'Italian': 0.2, None: 0.08}.. Then the rule-based policy    that uses the current NLU intent (or intents, coming from our NLU) and the dialogue state (coming from our tracker) to produce system action dialogue acts. For example:
 
   ```
   U: Hello, I need a cheap restaurant
@@ -22,11 +24,18 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
  
   Based on the dialogue acts, the template is used for generating natural language.
 
-  video demo of the project:
+  video demo of the project: [travelbot demo](https://youtu.be/lYnPE4exrls).
   
 * **Identifying-Offensive-Language-in-Socail-media-using-NLP:**
   
   In this project, I used various NLP techniques such as tokenization, POS tagging, word representation using TF-IDF and word embedding    using GloVe and Finally evaluated the performance using Logistic Regression and Naive Bayes and using a Recurrent Neural Network.
-  Project report: Project github Link:  [Identifying-Offensive-Language-in-Socail-media-using-NLP](https://github.com/arafat04/Identifying-Offensive-Language-in-Socail-media-using-NLP).
+  Project report: http://dx.doi.org/10.13140/RG.2.2.25084.21121  | Project github Link:  [Identifying-Offensive-Language-in-Socail-media-using-NLP](https://github.com/arafat04/Identifying-Offensive-Language-in-Socail-media-using-NLP).
+
+* **Markov Chain Analysis with R:**
+
+R Separate weather and stock price datasets were analyzed, and a Markov
+chain model was developed in R to predict weather and stock price trends.
+Project page: [Markov chain analysis with R](https://arafat04.github.io/Markov-Chain-Analysis/).
+
   
 
