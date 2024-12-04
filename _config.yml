@@ -1,8 +1,20 @@
 title: G M Arafat Rahman
-logo: /images/arafat portfolio pic.jpg
-description: Erasmus Mundus Scholar
-
-            :Charles University in Prague, Czech Republic and University of Lorraine, France
+logo: "/images/arafat portfolio pic.jpg"
+description: 
+             <p align="center">
+              Erasmus Mundus Scholar
+              <br> Charles University in Prague, Czech Republic and University of Lorraine, France
+              <br> g.m.arafat.rahman@outlook.com
+              
+              <a href="https://www.linkedin.com/in/g-m-arafat-rahman/">LinkedIn</a> |
+              <a href="https://github.com/arafat04">GitHub</a>
+            
+              </p>
+              
+              <p align="justify">
+              I am currently pursuing master's in Computational Linguistics and Natural language processing under Erasmus Mundus <b>Language and Communications Technologies(LCT)</b>.
+            
+              </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
