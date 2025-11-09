@@ -10,6 +10,7 @@ I am interested in LLMs, RAG, Information Retrieval, Chatbots and Machine Transl
   finetunig by using the parallel text.
 
   Project link: [bn-hi-MT-improvement-using-llm](https://github.com/arafat04/bn-hi-MT-improvement-using-llm).
+  Project Report: [bn-hi-MT-improvement-using-llm report](https://drive.google.com/file/d/1qSiAulk-EULMIEEHllOYiMaHOfP0myE8/view?usp=sharing).
 
 * **travelbot - a chatbot to find hotels and flights:**
   
